@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'https://book-my-show-backend-kohl.vercel.app',
+  baseURL: 'https://book-my-show-backend-bejg.vercel.app',
 });
 
 // Attach token to every request
